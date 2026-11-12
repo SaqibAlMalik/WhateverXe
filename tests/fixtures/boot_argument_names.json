@@ -127,6 +127,11 @@
   "-wex-tgl-hold-render-wake": [
     "-tglholdrenderwake"
   ],
+  "-wex-tgl-no-posh": [],
+  "-wex-tgl-gpurec": [],
+  "-wex-tgl-gpurec-halt": [],
+  "-wex-tgl-stampfix": [],
+  "-wex-tgl-nomc": [],
   "-wex-tc-aux": [
     "-tgltc-aux"
   ],
@@ -143,10 +148,14 @@
     "-wxebeta"
   ],
   "-wex-noaccel": [],
+  "-wex-nogva": [],
   "-wex-display-trace": [],
   "-wex-adlp-readout": [],
   "-wex-adlp-load-only": [],
   "-wex-display13-offline": [],
+  "-wex-mtl-poshfix": [],
+  "-wex-va-nullguard": [],
+  "-wex-va-vfeg12": [],
   "-wex-dsi-hdmi-test": [],
   "-wex-dsi-power-test": []
 }
